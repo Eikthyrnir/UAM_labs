@@ -1,0 +1,22 @@
+[project]
+name = "lab-deeplearning"
+version = "0.1.0"
+description = "Deep Learning Lab"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "anywidget>=0.9.18",
+    "grad-cam>=1.5.4",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "tensorboard>=2.19.0",
+    "torch>=2.6.0",
+    "torch-tb-profiler>=0.4.3",
+    "torchvision>=0.21.0",
+    "tqdm>=4.67.1",
+]
