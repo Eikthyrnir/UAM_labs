@@ -18,4 +18,5 @@ dependencies = [
     "torch==2.6.0",
     "torchvision>=0.17.2",
     "transformers>=4.52.4",
+    "kagglehub"
 ]
