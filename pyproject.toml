@@ -18,5 +18,7 @@ dependencies = [
     "torch==2.6.0",
     "torchvision>=0.17.2",
     "transformers>=4.52.4",
-    "kagglehub"
+    "kagglehub",
+    "pandas-stubs~=2.2.3",
+    "optuna>=3.0.0",
 ]
